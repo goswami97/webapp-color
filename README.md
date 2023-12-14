@@ -1,6 +1,6 @@
 # webapp-color
 
-git clone https://github.com/goswami97/webapp-color.git
+git clone https://github.com/kodekloudhub/webapp-color.git
 
 cd webapp-color
 

@@ -6,7 +6,7 @@ Here we have multiple branch
 - git checkout v1
 - docker build -t colorapp:v1 .
 - docker run --name color-app -p 8080:8080 colorapp:v1
-- curl locahost:8080/info
+- for i in {1..9}; do curl -s localhost:8080/info; echo; done
 
 # v2
 # v3
